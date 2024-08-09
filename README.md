@@ -1,2 +1,2 @@
 # Bumblehub-Demo
-This my first  Repository
+This my first Git Repository
